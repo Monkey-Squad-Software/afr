@@ -33,10 +33,10 @@ This is what it looks like, the logbook entry:
   
 Date: <Auto Generated>  
 Project: <project, software section or module>  
-Observation: What did you observe? Was there anything particularly horrible or and even better something great? Also observe the people and their mood. Did knowledge emerge that should be shared?
-Health: <selection: How is the project doing> “well”, “ok”, “unexpected”, “not so good” or “bad”.
-Consequences: (consequences): List of all positive and negative consequences.
-Reaction: List what should be done next and what you intend to contribute.
+Observation: What did you observe? Was there anything particularly horrible or and even better something great? Also observe the people and their mood. Did knowledge emerge that should be shared?  
+Health: <selection: How is the project doing> “well”, “ok”, “unexpected”, “not so good” or “bad”.  
+Consequences: (consequences): List of all positive and negative consequences.  
+Reaction: List what should be done next and what you intend to contribute.  
 
 Important to know:  
 AFRs are valuable because of their continuity.  
